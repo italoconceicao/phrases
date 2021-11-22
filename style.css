@@ -1,0 +1,13 @@
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(95deg, rgba(0,0,0,1) 0%, rgba(121,9,9,1) 52%, rgba(203,0,0,1) 73%);
+}
+
+main {
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+}
