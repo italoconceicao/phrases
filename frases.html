@@ -5,21 +5,22 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Frases</title>
-        <script src="functions.js"></script>
+
         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
     <header><!-- construir header aqui --></header>
         
     <main>
-        <h1>FRASES</h1>
+        <div id="content"></div>
+        <h1 id>FRASES</h1>
         <p>O nosso projeto de pílula de inspiração diária para alimentar a motivação da luta por um futuro melhor.</p>
         <p>A frase de hoje é:</p>
 
-        <!-- função das frases aqui -->
+        <p id="frase">" ... "</p>
 
 
-        <p>Gostaria de mais uma citação? <span>Clique Aqui.</span></p>
+        <p>Gostaria de mais uma citação? <span id="proximo">Clique Aqui.</span></p>
     </main>
 
     <footer>
@@ -29,6 +30,7 @@
 
 
 
+    <script src="./functions.js"></script>
 
     </body>
 </html>
