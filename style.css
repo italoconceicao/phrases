@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'kremlin';
+    src: url(kremlin.ttf);
+}
+
 body {
     background: url(b.jpg) no-repeat center;
     background-size: cover;
@@ -11,8 +16,21 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
 }
+
+h1{
+    font-family: 'kremlin';
+    font-size: 8vh;
+}
+
+#subtitulo {
+    margin-top: -20px;
+}
+
+.enunciado {
+    font-size: 3vh;
+}
+
 #content {
     width: 70vw;
     height: 40vh;
@@ -23,15 +41,20 @@ main {
 }
 
 #frase {
-    font-size: larger;
+    font-size: 4vh;
+    color: lightgrey;
+    text-shadow: 2px 2px black;
 }
 
 span {
     text-decoration: underline;
     cursor: pointer;
 }
-
+a:visited {
+    color: azure;
+  }
 
 footer{
     text-align: center;
+    color: lightgrey;
 }
