@@ -1,4 +1,3 @@
-// transformei em array mas provavelmente será um objeto.
 var frases = [
 
 "“Os capitalistas chamam 'liberdade' a dos ricos de enriquecer e a dos operários para morrer de fome. Os capitalistas chamam liberdade de imprensa a compra dela pelos ricos, servindo-se da riqueza para fabricar e falsificar a opinião pública.”" + "<br><br>" + "LENIN",
@@ -8,6 +7,18 @@ var frases = [
 "“Num país em que o único empregador é o Estado, oposição significa morte lenta por inanição. O velho princípio 'quem não trabalha não come' foi substituído por outro: quem não obedece não come.”" + "<br><br>" + "TROTSKY",
 "“Ela virá, a revolução conquistará a todos o direito não somente ao pão mas, também, à poesia.”" + "<br><br>" + "TROTSKY",
 "“A morte de uma pessoa é uma tragédia; a de milhões, uma estatística.”" + "<br><br>" + "STALIN",
+"“Sonha e serás livre de espírito... luta e serás livre na vida.”" + "<br><br>" + "ERNESTO CHE GUEVARA", 
+"“Se você é capaz de tremer de indignação a cada vez que se comete uma injustiça no mundo, então somos companheiros.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“O conhecimento nos faz responsáveis.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“Acima de tudo procurem sentir no mais profundo de vocês qualquer injustiça cometida contra qualquer pessoa em qualquer parte do mundo. É a mais bela qualidade de um revolucionário.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“Os grandes só parecem grandes porque estamos ajoelhados.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“O importante não é justificar o erro, mas impedir que ele se repita.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“A farda modela o corpo e atrofia a mente.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“Deixe-me dizer-lhe, correndo o risco de parecer ridículo, que o verdadeiro revolucionário é guiado por grandes sentimentos de amor.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“Não nego a necessidade objetiva do estímulo material, mas sou contrário a utilizá-lo como alavanca impulsora fundamental. Porque então ela termina por impor sua própria força às relações entre os homens.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“A reforma agrária radical é a única que pode dar a terra ao camponês.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“Só existe um sentimento maior que o amor à liberdade: o ódio ao que a tira de você.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
+"“É preciso lutar todos os dias para que esse amor à humanidade viva se transforme em fatos concretos, em atos que sirvam de exemplo de mobilização.”" + "<br><br>" + "ERNESTO CHE GUEVARA",
 
 ];
 
