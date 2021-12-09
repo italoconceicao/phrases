@@ -26,8 +26,7 @@ var frases = [
 var fraseExibida = document.getElementById("frase");
 var proximaFrase = document.getElementById("proximafrase");
 
-const fraseAleatoria = frases[Math.floor(Math.random() * frases.length)];
-    fraseExibida.innerHTML = fraseAleatoria;
+mudarFrase();
 
 proximaFrase.addEventListener("click", mudarFrase);
 
