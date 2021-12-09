@@ -4,6 +4,7 @@
 }
 
 body {
+    height: 100%;
     background: url(b.jpg) no-repeat center;
     background-size: cover;
     background-color: rgb(104, 21, 21);
@@ -57,4 +58,47 @@ a:visited {
 footer{
     text-align: center;
     color: lightgrey;
+}
+
+/*                        RESPONSIVIDADE                     */
+
+
+@media screen and (max-width: 320px) {
+    
+    h1{
+        font-size: 3vh;
+    }
+    #subtitulo {
+        margin-top: -10px;
+        font-size: 2vh;
+    }
+    #content {
+        height: 65vh;
+        margin-bottom: 10px;
+    }
+    #frase {
+        font-size: 3vh;
+        color: lightgrey;
+        text-shadow: 2px 2px black;
+        margin-bottom: 10px;
+    }
+
+
+}
+@media screen and (min-width: 321px) and(max-width: 375px) {
+    
+    h1{
+        font-size: 3vh;
+    }
+    #subtitulo {
+        margin-top: -10px;
+    }
+    #content {
+        height: 50vh;
+    }
+    #frase {
+        font-size: 3vh;
+        color: lightgrey;
+        text-shadow: 2px 2px black;
+    }
 }
