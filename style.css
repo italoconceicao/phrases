@@ -66,18 +66,19 @@ footer{
 @media screen and (max-width: 320px) {
     
     h1{
-        font-size: 3vh;
+        font-size: 4vh;
     }
     #subtitulo {
         margin-top: -10px;
-        font-size: 2vh;
+        margin-bottom: -5px;
+        font-size: 3vh;
     }
     #content {
         height: 65vh;
         margin-bottom: 10px;
     }
     #frase {
-        font-size: 3vh;
+        font-size: 4vh;
         color: lightgrey;
         text-shadow: 2px 2px black;
         margin-bottom: 10px;
@@ -85,19 +86,41 @@ footer{
 
 
 }
-@media screen and (min-width: 321px) and(max-width: 375px) {
+@media screen and (min-width: 321px) and (max-width: 375px) {
     
     h1{
-        font-size: 3vh;
+        font-size: 6vh;
     }
     #subtitulo {
+        font-size: 3vh;
         margin-top: -10px;
+        margin-bottom: 0px;
     }
     #content {
         height: 50vh;
     }
     #frase {
+        font-size: 4vh;
+        color: lightgrey;
+        text-shadow: 2px 2px black;
+    }
+}
+
+@media screen and (min-width: 376px) and (max-width: 425px) {
+    
+    h1{
+        font-size: 5vh;
+    }
+    #subtitulo {
         font-size: 3vh;
+        margin-top: -10px;
+        margin-bottom: 0px;
+    }
+    #content {
+        height: 50vh;
+    }
+    #frase {
+        font-size: 4vh;
         color: lightgrey;
         text-shadow: 2px 2px black;
     }
