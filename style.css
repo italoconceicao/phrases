@@ -120,24 +120,18 @@ footer{
         height: 50vh;
     }
 
+}
 
 @media (min-height: 420px) {
 
-    body{
-        background-image: none;
-    }
+    
     #subtitulo {
-        font-size: 5vh;
+        font-size: 4vh;
     }   
     #content {
-        height: 70vh;
-    }
-    #frase {
-        font-size: 3vh;
+        height: 60vh;
     }
     #enunciado {
         margin-top: 20px;    
     }
-}
-
 }
