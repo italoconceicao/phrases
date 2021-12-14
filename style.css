@@ -63,7 +63,7 @@ a:visited {
 
 footer{
     text-align: center;
-    color: lightgrey;
+    color: rgb(175, 175, 175);
 }
 
 /*                        RESPONSIVIDADE                     */
@@ -84,7 +84,6 @@ footer{
         margin-bottom: 10px;
     }
     #frase {
-        font-size: 4vh;
         margin-bottom: 10px;
     }
 
@@ -123,11 +122,10 @@ footer{
 }
 
 @media (min-height: 420px) {
-
-    
-    #subtitulo {
-        font-size: 4vh;
-    }   
+   
+    #frase {
+        font-size: 3vh;
+    }
     #content {
         height: 60vh;
     }
