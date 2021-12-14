@@ -124,10 +124,10 @@ footer{
 @media (min-height: 420px) {
    
     #frase {
-        font-size: 3vh;
+        font-size: 2.8vh;
     }
     #content {
-        height: 60vh;
+        height: 65vh;
     }
     #enunciado {
         margin-top: 20px;    
