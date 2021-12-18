@@ -38,7 +38,17 @@ var frases = [
 "“Os que no regime burguês trabalham não lucram e os que lucram não trabalham.”" + "<br><br>" + "Friedrich ENGELS",
 "“Não pode ser livre um povo que oprime outros povos.”" + "<br><br>" + "Friedrich ENGELS",
 //
+"“A propaganda não pode ser abandonada nem por um minuto, porque é a alma da nossa luta””" + "<br><br>" + "FIDEL Castro",
+"“Esta é a Revolução socialista e democrática dos humildes, com os humildes e para os humildes””" + "<br><br>" + "FIDEL Castro",
+"“Revolução é mudar tudo o que deve ser mudado””" + "<br><br>" + "FIDEL Castro",
+"“Uma revolução não é um mar de rosas. É uma luta de morte entre o futuro e o passado.”" + "<br><br>" + "FIDEL Castro",
+"“Não nos enganemos achando que adiante tudo será fácil; talvez tudo seja mais difícil.”" + "<br><br>" + "FIDEL Castro",
+//
 
+    
+    
+    
+    
 
 ];
 
