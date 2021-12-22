@@ -146,3 +146,10 @@ footer{
         margin-top: 20px;    
     }
 }
+
+@media (min-width: 425px) and (min-height: 500px) {
+   
+    #content {
+        height: 40vh;
+    }
+}
