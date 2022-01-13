@@ -44,12 +44,15 @@ var frases = [
 "“Uma revolução não é um mar de rosas. É uma luta de morte entre o futuro e o passado.”" + "<br><br>" + "FIDEL Castro",
 "“Não nos enganemos achando que adiante tudo será fácil; talvez tudo seja mais difícil.”" + "<br><br>" + "FIDEL Castro",
 //
-
-    
-    
-    
-    
-
+"“Se você não for atento e cuidadoso, os jornais o farão odiar as pessoas que estão sendo oprimidas e amar as pessoas que são opressoras.”" + "<br><br>" + "MALCOLM X",
+"“Não se pode ter capitalismo sem racismo.”" + "<br><br>" + "MALCOLM X",
+//
+"“O desenvolvimento da sociedade humana, do capitalismo ao socialismo, é uma lei imutável da história e somente quando segue-se o caminho do socialismo é possível fazer realidade o ideal da humanidade de viver de modo independente e em paz.”" + "<br><br>" + "Kim Il Sung",
+"“O socialismo é a maior conquista da humanidade e o ideal que lhe oferece vigorosa vitalidade e esperança.”" + "<br><br>" + "Kim Il Sung",
+"“A revolução social não se realiza com facilidade, como se em plena luz do dia seguisse por um caminho seguro e amplo, nem como se navegasse tranquilamente e em pleno vapor, sem dificuldade.”" + "<br><br>" + "Kim Il Sung",
+"“Não apenas derrubar o velho sistema social e construir um novo é a revolução, mas também mudar o obsoleto para o novo nas esferas ideológica, técnica e cultural.”" + "<br><br>" + "Kim Il Sung",
+"“Somente quando se unem e cooperam, as massas populares podem ser entidades mais poderosas capazes de transformar e renovar o mundo.”" + "<br><br>" + "Kim Il Sung",
+//
 ];
 
 
