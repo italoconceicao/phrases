@@ -54,7 +54,7 @@ span{
 }
 
 a {
-    color: azure
+    color: azure;
     text-decoration: underline;
     cursor: pointer;
 }
