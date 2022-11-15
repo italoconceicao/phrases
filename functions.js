@@ -4,7 +4,10 @@ var frases = [
 "“Os capitalistas chamam 'liberdade' a dos ricos de enriquecer e a dos operários para morrer de fome. Os capitalistas chamam liberdade de imprensa a compra dela pelos ricos, servindo-se da riqueza para fabricar e falsificar a opinião pública.”" + "<br><br>" + "Vladimir LENIN",
 "“É verdade que a liberdade é preciosa - tão preciosa que precisa ser racionalizada.”" + "<br><br>" + "Vladimir LENIN",
 "“As revoluções são as festas dos oprimidos e explorados.”" + "<br><br>" + "Vladimir LENIN",
-// 
+//
+"“É melhor sacrificar tudo do que viver na escravidão!”" + "<br><br>" + "Ho Chi Minh",
+"“Pessoas que saem da prisão podem construir o país. O infortúnio é um teste à fidelidade. E aqueles que protestam contra injustiça são pessoas de verdadeiro mérito. Quando as portas da prisão são abertas, o real dragão voa.”" + "<br><br>" + "Ho Chi Minh",
+//
 "“A propriedade do Estado não é a de 'todo povo', mas que na medida em que desaparecem os privilégios e as distinções sociais e em que, em consequência, o Estado perde sua razão de ser. Dito de outra maneira: a propriedade do Estado se faz socialista a medida que deixa de ser propriedade do Estado.”" + "<br><br>" + "Leon TROTSKY",
 "“Num país em que o único empregador é o Estado, oposição significa morte lenta por inanição. O velho princípio 'quem não trabalha não come' foi substituído por outro: quem não obedece não come.”" + "<br><br>" + "Leon TROTSKY",
 "“Ela virá, a revolução conquistará a todos o direito não somente ao pão mas, também, à poesia.”" + "<br><br>" + "Leon TROTSKY",
