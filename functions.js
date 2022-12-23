@@ -12,8 +12,8 @@ var frases = [
 "“Num país em que o único empregador é o Estado, oposição significa morte lenta por inanição. O velho princípio 'quem não trabalha não come' foi substituído por outro: quem não obedece não come.”" + "<br><br>" + "Leon TROTSKY",
 "“Ela virá, a revolução conquistará a todos o direito não somente ao pão mas, também, à poesia.”" + "<br><br>" + "Leon TROTSKY",
 //
-"“Seja resoluto, não tenha medo de sacrifícios e derrube todas as dificuldades para a vitória.”" + "<br><br>" + "Mao Tse-Tung",
-"“A revolução não é o convite para um jantar, a composição de uma obra literária, a pintura de um quadro ou a confecção de um bordado, ela não pode ser assim tão refinada, calma e delicada, tão branda, tão afável e cortês, comedida e generosa. A revolução é um insurreição, é um ato de violência pelo qual uma classe derruba a outra.”" + "<br><br>" + "Mao Tse-Tung",
+"“Seja resoluto, não tenha medo de sacrifícios e derrube todas as dificuldades para a vitória.”" + "<br><br>" + "Mao Zedong",
+"“A revolução não é o convite para um jantar, a composição de uma obra literária, a pintura de um quadro ou a confecção de um bordado, ela não pode ser assim tão refinada, calma e delicada, tão branda, tão afável e cortês, comedida e generosa. A revolução é um insurreição, é um ato de violência pelo qual uma classe derruba a outra.”" + "<br><br>" + "Mao Zedong",
 //    
 "“A morte de uma pessoa é uma tragédia; a de milhões, uma estatística.”" + "<br><br>" + "Joseph STALIN",
 "“Líderes vão e vem, mas o povo permanece. Apenas o povo é imortal.”" + "<br><br>" + "Joseph STALIN",
