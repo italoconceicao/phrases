@@ -59,6 +59,13 @@ var frases = [
 "“Não apenas derrubar o velho sistema social e construir um novo é a revolução, mas também mudar o obsoleto para o novo nas esferas ideológica, técnica e cultural.”" + "<br><br>" + "Kim Il Sung",
 "“Somente quando se unem e cooperam, as massas populares podem ser entidades mais poderosas capazes de transformar e renovar o mundo.”" + "<br><br>" + "Kim Il Sung",
 //
+"“Quem não se movimenta, não sente as correntes que o prendem.”" + "<br><br>" + "Rosa Luxemburgo",
+"“É preciso auto-disciplina interior, maturidade intelectual, seriedade moral, senso de dignidade e de responsabilidade, todo um renascimento interior do proletário. Com homens preguiçosos, levianos, egoístas, irrefletidos e indiferentes não se pode realizar o socialismo.”" + "<br><br>" + "Rosa Luxemburgo",
+"“Não estamos perdidos. Ao contrário, venceremos se não tivermos desaprendido a aprender.”" + "<br><br>" + "Rosa Luxemburgo",
+//    
+"“No começo pensei que estivesse lutando para salvar seringueiras, depois pensei que estava lutando para salvar a Floresta Amazônica. Agora, percebo que estou lutando pela humanidade.”" + "<br><br>" + "Chico Mendes",
+⁠"“Ecologia sem luta de classes é jardinagem.”" + "<br><br>" + "Chico Mendes",
+"“Se descesse um enviado dos céus e me garantisse que minha morte iria fortalecer nossa luta até que valeria a pena. Mas a experiência nos ensina o contrário. Então eu quero viver. Ato público e enterro numeroso não salvarão a Amazônia. Quero Viver.”" + "<br><br>" + "Chico Mendes",
 ];
 
 
