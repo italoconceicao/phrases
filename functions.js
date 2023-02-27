@@ -66,6 +66,8 @@ var frases = [
 "“No começo pensei que estivesse lutando para salvar seringueiras, depois pensei que estava lutando para salvar a Floresta Amazônica. Agora, percebo que estou lutando pela humanidade.”" + "<br><br>" + "Chico Mendes",
 ⁠"“Ecologia sem luta de classes é jardinagem.”" + "<br><br>" + "Chico Mendes",
 "“Se descesse um enviado dos céus e me garantisse que minha morte iria fortalecer nossa luta até que valeria a pena. Mas a experiência nos ensina o contrário. Então eu quero viver. Ato público e enterro numeroso não salvarão a Amazônia. Quero Viver.”" + "<br><br>" + "Chico Mendes",
+//
+    
 ];
 
 
