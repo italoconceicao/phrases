@@ -3,7 +3,8 @@ Inspirational quotations from Socialists and Comunist Leaders/Writers.
 (Citações inspiradoras de líderes e pensadores socialistas e comunistas)
 \
 \
-Visit: https://abre.ai/frasesrevolucionarias  
+Visit: https://italoconceicao.github.io/phrases/  
+
 Screen Capture:
 ![Screen Capture of the site](https://github.com/italoconceicao/phrases/blob/main/screencapture-2021-12-14-21_23_11.png)
 \
