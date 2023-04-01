@@ -1,4 +1,4 @@
-var frases = [
+const frases = [
 
     // 
     "“Os capitalistas chamam 'liberdade' a dos ricos de enriquecer e a dos operários para morrer de fome. Os capitalistas chamam liberdade de imprensa a compra dela pelos ricos, servindo-se da riqueza para fabricar e falsificar a opinião pública.”" + "<br><br>" + "Vladimir LENIN",
@@ -71,8 +71,8 @@ var frases = [
 ];
 
 
-var fraseExibida = document.getElementById("frase");
-var proximaFrase = document.getElementById("proximafrase");
+const fraseExibida = document.getElementById("frase");
+const proximaFrase = document.getElementById("proximafrase");
 
 mudarFrase();
 
@@ -81,4 +81,4 @@ proximaFrase.addEventListener("click", mudarFrase);
 function mudarFrase() {
     const fraseAleatoria = frases[Math.floor(Math.random() * frases.length)];
     fraseExibida.innerHTML = fraseAleatoria;
-}
+};
